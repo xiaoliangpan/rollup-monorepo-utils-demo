@@ -13,6 +13,9 @@ const config = defineConfig([
         dir: "dist/es",
         format: "es",
         preserveModules: true,
+        // globals: {
+        //   "@pxlv1/utils": "utils",
+        // },
       },
       {
         dir: "dist/lib/",
@@ -20,6 +23,7 @@ const config = defineConfig([
         preserveModules: true,
       },
     ],
+    external: ["@pxlv1/utils"],
     plugins: [resolve(), commonjs(), typescript()],
   },
   {
