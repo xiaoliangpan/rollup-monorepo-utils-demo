@@ -6,6 +6,7 @@
   "module": "dist/es/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
+    "release": "pnpm publish --access public",
     "build": "rimraf dist && rollup -c rollup.config.mts --configPlugin @rollup/plugin-typescript"
   },
   "keywords": [],

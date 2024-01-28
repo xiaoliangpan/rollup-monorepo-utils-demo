@@ -7,7 +7,8 @@
     "clean-dist": "rimraf 'packages/*/{dist}'",
     "clean": "pnpm run clean-dist",
     "build": "pnpm -r --filter=./packages/* run build",
-    "release": "bumpp --recursive --commit --tag --push"
+    "release:version": "bumpp --recursive --commit --tag --push",
+    "release": "pnpm -r --filter=./packages/* run release"
   },
   "keywords": [],
   "author": "",
