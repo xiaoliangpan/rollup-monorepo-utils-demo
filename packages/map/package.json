@@ -1,7 +1,7 @@
 {
   "name": "@pxlv1/map",
   "version": "1.0.1",
-  "description": "",
+  "description": "rollup+monorepo 脚手架",
   "main": "dist/lib/index.js",
   "module": "dist/es/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,12 @@
     "release": "pnpm publish --access public",
     "build": "rimraf dist && rollup -c rollup.config.mts --configPlugin @rollup/plugin-typescript"
   },
-  "keywords": [],
+  "keywords": [
+    "rollup",
+    "monorepo",
+    "pnpm",
+    "utils-demo"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
@@ -23,5 +28,8 @@
   },
   "dependencies": {
     "@pxlv1/utils": "workspace:^"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
