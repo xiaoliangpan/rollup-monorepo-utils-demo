@@ -6,7 +6,8 @@
   "scripts": {
     "clean-dist": "rimraf 'packages/*/{dist}'",
     "clean": "pnpm run clean-dist",
-    "build": "pnpm -r --filter=./packages/* run build"
+    "build": "pnpm -r --filter=./packages/* run build",
+    "release": "bumpp --recursive --commit --tag --push"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +18,7 @@
     "@rollup/plugin-terser": "^0.4.4",
     "@rollup/plugin-typescript": "^11.1.6",
     "@types/lodash-es": "^4.17.12",
+    "bumpp": "^9.3.0",
     "lodash-es": "^4.17.21",
     "rimraf": "^5.0.5",
     "rollup": "^4.9.6",
