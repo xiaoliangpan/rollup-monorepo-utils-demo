@@ -7,7 +7,7 @@ import dts from "rollup-plugin-dts";
 
 const config = defineConfig([
   {
-    input: "src/main.ts",
+    input: "src/index.ts",
     output: [
       {
         dir: "dist/es",
@@ -23,7 +23,7 @@ const config = defineConfig([
     plugins: [resolve(), commonjs(), typescript()],
   },
   {
-    input: "src/main.ts",
+    input: "src/index.ts",
     output: [
       {
         file: "dist/index.min.js",
@@ -35,7 +35,7 @@ const config = defineConfig([
     plugins: [resolve(), commonjs(), typescript(), terser()],
   },
   {
-    input: "src/main.ts",
+    input: "src/index.ts",
     output: [
       { file: "dist/es/index.d.ts", format: "es" },
       { file: "dist/lib/index.d.ts", format: "cjs" },
