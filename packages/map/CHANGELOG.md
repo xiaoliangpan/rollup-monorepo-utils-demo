@@ -1,5 +1,16 @@
 # @pxlv1/map
 
+## 3.1.0
+
+### Minor Changes
+
+- 4adfd6b: 更新次版本
+
+### Patch Changes
+
+- Updated dependencies [4adfd6b]
+  - @pxlv1/utils@3.1.0
+
 ## 3.0.0
 
 ### Major Changes

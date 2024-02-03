@@ -1,5 +1,11 @@
 # @pxlv1/utils
 
+## 3.1.0
+
+### Minor Changes
+
+- 4adfd6b: 更新次版本
+
 ## 3.0.0
 
 ### Major Changes
