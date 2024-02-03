@@ -1,5 +1,5 @@
 {
-  "mode": "pre",
+  "mode": "exit",
   "tag": "alpha",
   "initialVersions": {
     "@pxlv1/map": "2.0.0",
@@ -7,6 +7,7 @@
   },
   "changesets": [
     "chilled-lions-sneeze",
-    "neat-pants-learn"
+    "neat-pants-learn",
+    "wet-insects-count"
   ]
 }

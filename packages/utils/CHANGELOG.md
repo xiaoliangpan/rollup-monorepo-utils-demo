@@ -1,5 +1,11 @@
 # @pxlv1/utils
 
+## 3.0.0-alpha.2
+
+### Patch Changes
+
+- f5dcebf: 版本更新
+
 ## 3.0.0-alpha.1
 
 ### Major Changes
