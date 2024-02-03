@@ -1,12 +1,11 @@
 {
   "name": "@pxlv1/map",
-  "version": "5.0.0",
+  "version": "5.0.1-beta.0",
   "description": "rollup+monorepo 脚手架",
   "main": "dist/lib/index.js",
   "module": "dist/es/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "release": "pnpm publish --access public",
     "build": "rimraf dist && rollup -c rollup.config.mts --configPlugin @rollup/plugin-typescript"
   },
   "keywords": [

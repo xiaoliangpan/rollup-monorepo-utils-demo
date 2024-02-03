@@ -1,5 +1,11 @@
 # @pxlv1/map
 
+## 5.0.1-beta.0
+
+### Patch Changes
+
+- 发布一个 beta 版
+
 ## 5.0.0
 
 ### Major Changes

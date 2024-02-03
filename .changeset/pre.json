@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "@pxlv1/map": "5.0.0",
+    "@pxlv1/utils": "4.0.0"
+  },
+  "changesets": [
+    "slow-berries-sleep"
+  ]
+}
