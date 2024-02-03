@@ -1,5 +1,11 @@
 # @pxlv1/map
 
+## 5.0.0
+
+### Major Changes
+
+- 5.0.0
+
 ## 4.0.0
 
 ### Patch Changes
