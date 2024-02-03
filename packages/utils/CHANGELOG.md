@@ -1,5 +1,11 @@
 # @pxlv1/utils
 
+## 3.0.0-alpha.1
+
+### Major Changes
+
+- 2d0e4ae: changle
+
 ## 2.0.1-alpha.0
 
 ### Patch Changes

@@ -6,6 +6,7 @@
     "@pxlv1/utils": "2.0.0"
   },
   "changesets": [
+    "chilled-lions-sneeze",
     "neat-pants-learn"
   ]
 }
