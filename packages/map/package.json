@@ -1,6 +1,6 @@
 {
   "name": "@pxlv1/map",
-  "version": "2.0.0",
+  "version": "2.0.1-alpha.0",
   "description": "rollup+monorepo 脚手架",
   "main": "dist/lib/index.js",
   "module": "dist/es/index.js",

@@ -5,5 +5,7 @@
     "@pxlv1/map": "2.0.0",
     "@pxlv1/utils": "2.0.0"
   },
-  "changesets": []
+  "changesets": [
+    "neat-pants-learn"
+  ]
 }
