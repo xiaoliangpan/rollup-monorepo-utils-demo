@@ -1,5 +1,16 @@
 # @pxlv1/utils
 
+## 3.0.0
+
+### Major Changes
+
+- 2d0e4ae: changle
+
+### Patch Changes
+
+- 9910291: 更新版本测试
+- f5dcebf: 版本更新
+
 ## 3.0.0-alpha.2
 
 ### Patch Changes

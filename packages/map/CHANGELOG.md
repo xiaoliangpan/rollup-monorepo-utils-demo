@@ -1,5 +1,22 @@
 # @pxlv1/map
 
+## 3.0.0
+
+### Major Changes
+
+- 2d0e4ae: changle
+
+### Minor Changes
+
+- f5dcebf: 版本更新
+
+### Patch Changes
+
+- Updated dependencies [2d0e4ae]
+- Updated dependencies [9910291]
+- Updated dependencies [f5dcebf]
+  - @pxlv1/utils@3.0.0
+
 ## 3.0.0-alpha.2
 
 ### Minor Changes
