@@ -6,6 +6,7 @@
     "@pxlv1/utils": "4.0.0"
   },
   "changesets": [
+    "brown-cheetahs-lay",
     "slow-berries-sleep"
   ]
 }
