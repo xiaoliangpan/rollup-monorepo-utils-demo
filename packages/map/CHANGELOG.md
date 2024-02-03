@@ -1,5 +1,12 @@
 # @pxlv1/map
 
+## 4.0.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @pxlv1/utils@4.0.0
+
 ## 3.1.0
 
 ### Minor Changes

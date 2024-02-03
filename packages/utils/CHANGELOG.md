@@ -1,5 +1,11 @@
 # @pxlv1/utils
 
+## 4.0.0
+
+### Major Changes
+
+- 工具库更新主版本号
+
 ## 3.1.0
 
 ### Minor Changes
